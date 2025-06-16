@@ -43,7 +43,7 @@ For full details, visit the official GitHub repository:
 ## Minimal Workflow Example
 
 ```python
-from lazyml.trainer import LazyTrainer
+from lazytrainer import LazyTrainer
 
 # Initialize the trainer
 trainer = LazyTrainer(
