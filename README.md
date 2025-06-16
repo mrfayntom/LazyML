@@ -29,7 +29,7 @@ This project was created by **MrFayntom** with a clear goal in mind:
 ## Installation
 
 ```bash
-pip install lazytrainer
+pip install --no-cache-dir lazytrainer==0.1.3
 ```
 ---
 
