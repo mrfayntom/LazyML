@@ -1,4 +1,5 @@
-from lazyml.trainer import LazyTrainer
+from lazytrainer import LazyTrainer
+
 
 trainer = LazyTrainer(
     data_path= r"C:\Users\Mr. Phantom\Documents\Lazy Ml\house_prices.csv",
