@@ -1,16 +1,17 @@
-# LazyML
+# LazyTrainer
 
 **Train your regression models with zero drama.**  
 LazyML helps you get started with machine learning model training in the simplest way possible — no unnecessary complications.
 
 ---
 
-## Why LazyML?
+## Why LazyTrainer?
 
 This project was created by **MrFayntom** with a clear goal in mind:
 
 > "I made LazyML for beginners who want to train machine learning models but feel overwhelmed by all the complexity.  
 > LazyML wraps it up into a clean, lazy workflow so you can focus on *what matters* — learning and iterating."
+> By mistake I save the name "Lazyml" but it was already been created by someone so I changed into Lazy trainer
 
 ---
 
@@ -28,7 +29,7 @@ This project was created by **MrFayntom** with a clear goal in mind:
 ## Installation
 
 ```bash
-pip install lazyml
+pip install lazytrainer
 ```
 ---
 
